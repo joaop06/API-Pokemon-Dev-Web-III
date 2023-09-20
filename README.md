@@ -19,7 +19,7 @@ Uma aplicação simples que permite aos usuários pesquisar informações sobre 
 1. Você pode clonar este repositório:
 
    ```shell
-   git clone https://github.com/seu-usuario/pokedex-pokemon-api.git
+   git clone https://github.com/joaop06/API-Pokemon-Dev-Web-III.git
 
 2. Acesse a aplicação hospedada em:
 
